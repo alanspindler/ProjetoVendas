@@ -1,0 +1,164 @@
+C:\Projeto Aula\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+C:\Projeto Aula\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+C:\Projeto Aula\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csprojAssemblyReference.cache
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Properties.Resources.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.cache
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmClientes.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Properties.Resources.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmClientes.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.Cache
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.CoreCompileInputs.cache
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaClientes.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Menu.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmFornecedores.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaFornecedores.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csprojAssemblyReference.cache
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmCompras.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmProdutos.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmTiposProdutos.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmVendas.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.FrmListaCompras.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaProdutos.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaTiposProdutos.resources
+D:\t\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaVendas.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csprojAssemblyReference.cache
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Properties.Resources.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmClientes.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmCompras.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmFornecedores.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmProdutos.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmTiposProdutos.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmVendas.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.FrmListaCompras.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaClientes.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaFornecedores.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaProdutos.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaTiposProdutos.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaVendas.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Menu.resources
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.cache
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.CoreCompileInputs.cache
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+D:\t\TortoiseSVN\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+D:\t\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+D:\t\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+D:\t\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csprojAssemblyReference.cache
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Properties.Resources.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmClientes.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmCompras.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmFornecedores.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmProdutos.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmTiposProdutos.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmVendas.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.FrmListaCompras.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaClientes.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaFornecedores.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaProdutos.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaTiposProdutos.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaVendas.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Menu.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.cache
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.CoreCompileInputs.cache
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmCompras.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmFornecedores.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmProdutos.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmTiposProdutos.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmVendas.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.FrmListaCompras.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaClientes.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaFornecedores.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaProdutos.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaTiposProdutos.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaVendas.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Menu.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Properties.Resources.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmClientes.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmCompras.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmFornecedores.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmProdutos.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmTiposProdutos.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmVendas.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.FrmListaCompras.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaClientes.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaFornecedores.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaProdutos.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaTiposProdutos.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaVendas.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Menu.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.cache
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.Creditos.resources
+C:\Projeto Aula\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.Creditos.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.Creditos.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csprojAssemblyReference.cache
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Properties.Resources.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmClientes.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.Creditos.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmCompras.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmFornecedores.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmProdutos.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmTiposProdutos.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmVendas.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.FrmListaCompras.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaClientes.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaFornecedores.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaProdutos.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaTiposProdutos.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaVendas.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Menu.resources
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.cache
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+C:\Users\ADRIANO\Desktop\sistemasvendas\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.Movimentacoes.CadastroUsuario.resources
+D:\t\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.Login.resources
+C:\Teste\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+C:\Teste\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+C:\Teste\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csprojAssemblyReference.cache
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Properties.Resources.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmClientes.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.Creditos.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.Movimentacoes.CadastroUsuario.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.Login.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmCompras.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmFornecedores.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmProdutos.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.frmTiposProdutos.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.FrmVendas.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.FrmListaCompras.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaClientes.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaFornecedores.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaProdutos.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaTiposProdutos.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Listas.frmListaVendas.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Menu.resources
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.cache
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+C:\Teste\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csprojAssemblyReference.cache
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.Movimentacoes.CadastroUsuario.resources
+E:\Trabalho Sistema Uninorte\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Telas.Cadastros.Login.resources
